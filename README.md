@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Revi9 and I'm a Graphic Designer, and new web developer</h2>
 
 ###
 
@@ -41,6 +41,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Revi9/Revi9/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Revi9.Revi9&left_color=darkviolet&right_color=antiquewhite"  />
+</div>
 
 ###
