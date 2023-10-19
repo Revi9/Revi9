@@ -42,7 +42,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Revi9.Revi9&left_color=darkviolet&right_color=antiquewhite"  />
+  <img src="https://profile-counter.glitch.me/Revi9/count.svg?"  />
 </div>
 
 ###
